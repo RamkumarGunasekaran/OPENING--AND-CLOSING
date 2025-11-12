@@ -83,7 +83,7 @@ display_img(closing)
 
 
 ### Display the Noisy Image
-<img width="826" height="818" alt="download" src="https://github.com/user-attachments/assets/97755872-56e8-44f5-9930-f3e39be37cf4" />
+<img width="826" height="818" alt="download" src="https://github.com/user-attachments/assets/9bc12e19-793b-4a31-b051-a56ce5ba606f" />
 
 
 ### Display the Opening Image
