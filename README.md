@@ -3,7 +3,7 @@
 To implement Opening and Closing morphological operations using Python and OpenCV.
 
 ## Software Required
-1. Anaconda - Python 3.7  
+1. Anaconda - Python 3.7 
 2. OpenCV  
 
 ## Algorithm:
